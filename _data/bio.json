@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Zainab Ahsan",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "zainabahsan@gmail.com",
+    "phone": "03207225985",
+    "website": "https://templatecv.vercel.app/",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "Zeeshan Block, Green Vally", "postalCode": "96822", "city": "Gujranwala", "countryCode": "Pakistan", "region": "Punjab" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Zainab Ahsan", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "Zainab Ahsan", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "Zainab Ahsan", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "Zainab Ahsan", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
